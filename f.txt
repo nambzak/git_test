@@ -1,0 +1,28 @@
+total 116K
+4.0K bin/
+4.0K boot/
+4.0K cdrom/
+   0 dev/
+ 12K etc/
+4.0K home/
+   0 initrd.img@
+4.0K install-script.sh*
+4.0K lib/
+4.0K lib64/
+ 16K lost+found/
+4.0K media/
+4.0K mnt/
+4.0K opt/
+   0 proc/
+4.0K root/
+   0 run/
+ 12K sbin/
+4.0K snap/
+4.0K srv/
+   0 sys/
+4.0K timeshift/
+ 12K tmp/
+4.0K usr/
+4.0K var/
+   0 vmlinuz@
+   0 vmlinuz.old@
